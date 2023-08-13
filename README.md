@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently working as a Data Scientist in an AI company.
+- 🌱 I’m currently working as a Data Scientist at an AI company.
 
 - :computer: Mainly focusing on Data series, NLP, audio signals and MLOps subjects.
 
